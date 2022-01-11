@@ -1,7 +1,7 @@
 # satellite_course_python_code 
 
 ## Viewing the exercises
-The exercises are a series of Jupyter Notebooks that are hosted on a GitHub repository. You can view a single exercise to see if it is of interest by 
+The python exercises are a series of Jupyter Notebooks that are hosted on a GitHub repository. You can view a single exercise to see if it is of interest by 
 clicking the linked name of each exercise in the **Exercises** section below. A non-executable version of the exercise will open in a new browser window.   
 
 <!--If you want an executable version of a single Notebook, you can save a Notebook to your computer using the save menu in your browser while viewing the file online. To get all of the Notebooks, you can go to the GitHub repository and download a zip file with all of the exercises included. To download the repo and run the Notebooks on your computer:
