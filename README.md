@@ -41,7 +41,7 @@ Demonstrates how to extract environmental data from an ERDDAP server in an recta
 Extract environmental data from an ERDDAP server along an x,y and time trajectory, e.g. an animal or cruise track.
 3. **[Get Data Using an Irregular Shape](extract_irregular_shape.ipynb)**  
 Extract environmental data from an ERDDAP server in an irregular bounding box (polygon) over time, e.g. a marine protected area. 
-4. **[Comparing time-series of different satellite datasets](compare_satellite_timeseries.ipynb)**
+4. **[Comparing time-series of different satellite datasets](compare_satellite_timeseries.ipynb)**  
 Several satellite ocean color sensors have been launched since 1997 to provide a continuous record of global ocean color data. This exercise examines the variability of Chlorophyll-a values during time periods where the satellite measurements overlap. 
 5. **[Creating a virtual buoy](virtual_buoy_timeseries.ipynb)**   
 Create a virtual buoy from satellite data for locations where in-situ buoy data may not be available or has been discontinued.  
